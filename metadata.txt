@@ -2,7 +2,7 @@
 [general]
 name=Random HR
 description=AniMove: Randomization of home ranges within a study area
-version=0.2.2
+version=0.2.3
 qgisMinimumVersion=1.0
 
 ; not used yet
@@ -12,6 +12,7 @@ category=Vector
 
 ; start of optional metadata
 author=Borys Jurgiel for Faunalia and University of Florence
+email=qgis@borysjurgiel.pl
 
 changelog=
 
@@ -20,7 +21,7 @@ tags=ecology,home range,zoology
 
 homepage=http://www.faunalia.com/animove
 tracker=http://hub.qgis.org/projects/randomhr
-repository=https://trac.faunalia.it/svn/qgis_plugins/branches/randomHR
+repository=https://github.com/faunalia/randomHR
 
 ; path to a icon within the plugin folder
 icon=icons/randomHRIcon.png
